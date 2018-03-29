@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Sapper</string>
+    <string name="action_settings">Settings</string>
+    <string name="plus">plus</string>
+    <string name="action_minus">minus</string>
+    <string name="crime_report">%1$s!
+        The crime was discovered on %2$s. %3$s, and %4$s
+    </string>
+    <string name="subtitle">size: %1$d x %2$d, bombs: %3$d</string>
+    <string name="mode_easy">Easy</string>
+    <string name="mode_normal">Normal</string>
+    <string name="mode_hard">Hard</string>
+    <string name="mode_custom">Custom</string>
+
+    <string name="repeat">repeat</string>
+    <string name="exit">exit</string>
+    <string name="win">You are Win</string>
+    <string name="lose">You are Lose</string>
+
+    <string name="width">Width:\ </string>
+    <string name="height">Height:\ </string>
+    <string name="bombs">Bombs:\ </string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>

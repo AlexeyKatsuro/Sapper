@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.dedalexey.sapper.SapperActivity">
+
+    <item
+        android:id="@+id/action_mode_easy"
+        android:title="@string/mode_easy"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_mode_normal"
+        android:title="@string/mode_normal"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_mode_hard"
+        android:title="@string/mode_hard"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/action_mode_custom"
+        android:title="@string/mode_custom"
+        app:showAsAction="never"
+        />
+</menu>
